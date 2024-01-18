@@ -3,8 +3,54 @@ width: 36.58px;
 height: 53.72px;
 border: 2px;
 }
-.nav{
-    display: inline-block;
-    text-align: middle;
+.logo{
+font-family: Roboto;
+font-size:36px;
+color:#274C5B;;
+line-height: 44.53px;
 }
+
+.navigation{
+    display: inline-block;
+    margin-left: 20px;
+    
+}
+.nav-li-item{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    display: inline-block;
+    padding: 10px;
+    color:#274C5B;
+
+}
+.header-wrapper{  
+    position: fixed;
+    top:0;
+    left:0; 
+    width: 100%;
+    z-index: 100;
+
+    margin-top: 5.36px;
+    margin-left:44.79px ;
+    
+
+}
+.box{
+    width: 1118x;
+    
+}
+.boxs{
+    width: 257px;
+    height:335px;
+    display: inline-block;
+}
+
+.first-section{
+    margin-top: 76px;
+}
+
 
